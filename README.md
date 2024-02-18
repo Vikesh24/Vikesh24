@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vikesh S</h1>
-<h3 align="center">A passionate Python Developer from India</h3>
+<h3 align="center">A passionate Open Text Developer and aspiring Data Scientist with Python proficiency from India</h3>
 
 - 🌱 I’m currently learning **Data Science and Python**
 
