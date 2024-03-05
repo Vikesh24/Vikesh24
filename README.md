@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vikesh S</h1>
-<h3 align="center">A passionate Open Text Developer and aspiring Data Scientist with Python proficiency from India</h3>
+<h3 align="center">A passionate CCM Developer and a aspiring Data Scientist with Python proficiency from India</h3>
 
-- 🌱 I’m currently learning **Data Science and Python**
+- 🌱 I’m currently learning **Python focussed on Data Science and bit of Cloud Technologies**
 
 - 👯 I’m looking to collaborate on **Data Science and ML Projects**
 
