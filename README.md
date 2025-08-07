@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vikesh S</h1>
-<h3 align="center">A passionate CCM Developer and a aspiring Data Scientist with Python proficiency from India</h3>
+<h3 align="center">Crafting Scalable Backends • Pythonic Automation • LLM-Driven Tools • Architect-in-Training | India</h3>
 
-- 🌱 I’m currently learning **Python focussed on Data Science and bit of Cloud Technologies**
-
-- 👯 I’m looking to collaborate on **Data Science and ML Projects**
+- 🌱 Currently sharpening my **Python backend skills with a focus on cloud-native development, system design, and LLM-driven tools**.
 
 - 📫 How to reach me **vikesh024@gmail.com**
 
